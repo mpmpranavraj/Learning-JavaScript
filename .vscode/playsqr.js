@@ -12,6 +12,7 @@ s1.addEventListener("mouseleave", function () {
 
 
 })
+//ok
 
 
 let s2 = document.getElementById("s2");
